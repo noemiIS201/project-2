@@ -1,0 +1,25 @@
+/*! header
+
+footer 
+
+main body
+*/
+.body {
+    margin:auto;
+    background-color: lavender;
+    padding-left: 20px;
+}
+.header {
+   
+    color: black;
+    height: 90px
+
+}
+.my-element{
+    padding-left: 20px;
+}
+
+.footer{
+    text-align: center;
+    font-style: italic;
+} 
